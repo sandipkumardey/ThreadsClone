@@ -6,11 +6,17 @@ This project is a clone of the Threads app developed using Swift and integrated 
 # Features
 
 User Authentication: Users can sign up, log in, and log out securely using their email and password.
+
 Profile Management: Users can edit their profile information, including their username, profile picture, and bio.
+
 Messaging: Users can send and receive text messages to/from their friends in real time.
+
 Media Sharing: Users can share photos and videos with their friends.
+
 Friend Management: Users can add or remove friends and view their friend list.
+
 Push Notifications: Users receive push notifications for new messages and friend requests.
+
 Settings: Users can customize app settings such as notifications, privacy, and security preferences.
 
 # Technologies Used
