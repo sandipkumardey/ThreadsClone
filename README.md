@@ -26,6 +26,8 @@ Users receive push notifications for new messages and friend requests.
 Settings: 
 Users can customize app settings such as notifications, privacy, and security preferences.
 
+https://github.com/sandipkumardey/ThreadsClone/assets/96774612/52ec1be6-1ab3-4828-9719-ffc0526d94ad
+
 # Technologies Used
 
 Swift: Primary programming language for iOS app development.
